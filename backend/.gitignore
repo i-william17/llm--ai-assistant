@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# Logs and coverage
+*.log
+*.coverage
+.coverage.*
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+README.md
+*.swp
